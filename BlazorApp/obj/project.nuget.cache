@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mowE3ndd4hpU8xpEoto9LAhKH7KhT3z6UqQZc1bUskePP3OGj5++INdwReo1hrzRkjvPUMxBej1piBoiTXiImQ==",
+  "dgSpecHash": "CtRDrb9z79VtgVgLX5Y3btUod7OZIsImdA6aamzyD7ag7df92cNei/XPokiVgVGJ0zS+N77soKnMoQbDp41EiA==",
   "success": true,
-  "projectFilePath": "/home/user/tests/BlazorApp/BlazorApp.csproj",
+  "projectFilePath": "/home/user/Documents/FTL/slowly_attendance/BlazorApp/BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

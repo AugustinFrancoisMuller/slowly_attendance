@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/user/tests/BlazorApp/BlazorApp.csproj": {}
+    "/home/user/Documents/FTL/slowly_attendance/BlazorApp/BlazorApp.csproj": {}
   },
   "projects": {
-    "/home/user/tests/BlazorApp/BlazorApp.csproj": {
+    "/home/user/Documents/FTL/slowly_attendance/BlazorApp/BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user/tests/BlazorApp/BlazorApp.csproj",
+        "projectUniqueName": "/home/user/Documents/FTL/slowly_attendance/BlazorApp/BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "/home/user/tests/BlazorApp/BlazorApp.csproj",
+        "projectPath": "/home/user/Documents/FTL/slowly_attendance/BlazorApp/BlazorApp.csproj",
         "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/home/user/tests/BlazorApp/obj/",
+        "outputPath": "/home/user/Documents/FTL/slowly_attendance/BlazorApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user/.nuget/NuGet/NuGet.Config"
